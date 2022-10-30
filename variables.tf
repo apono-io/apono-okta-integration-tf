@@ -11,5 +11,4 @@ variable "org_name" {
 variable "okta_base_url" {
   type = string
   description = "Your okta domain base url (i.e. okta.com)"
-  default = "okta.com"
 }
